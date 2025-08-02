@@ -27,7 +27,7 @@ add-extensions:
     version: '24.08'
     autodownload: true
     autodelete: false
-  com.ayugram.desktop.webview:
+  org.telegram.desktop.webview:
     directory: lib/webview
     add-ld-path: lib
     version: stable
