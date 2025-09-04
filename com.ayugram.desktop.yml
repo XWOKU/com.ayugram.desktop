@@ -373,8 +373,8 @@ modules:
     build-options:
       arch:
         aarch64:
-          cflags: -g0
-          cxxflags: -g0
+          cflags: -g1
+          cxxflags: -g1
     config-opts:
       - -DTDESKTOP_API_ID=2040
       - -DTDESKTOP_API_HASH=b18441a1ff607e10a989891a5462e627
