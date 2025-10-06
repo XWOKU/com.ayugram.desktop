@@ -322,7 +322,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/desktop-app/tg_owt.git
-        commit: 62321fd7128ab2650b459d4195781af8185e46b5
+        commit: 5c5c71258777d0196dbb3a09cc37d2f56ead28ab
         x-checker-data:
           type: json
           parent-id: tdesktop-git-0
