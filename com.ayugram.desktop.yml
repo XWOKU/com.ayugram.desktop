@@ -381,8 +381,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/AyuGram/AyuGramDesktop.git
-        commit: 157039946fcff8ccca67b5667916c8d091ab18c7
-        tag: v5.16.4
+        commit: 4a7552fdab0b68f8f6cffbc3c9038e19bb5a2247
+        tag: v6.2.4
         x-checker-data:
           type: json
           url: https://api.github.com/repos/AyuGram/AyuGramDesktop/releases
